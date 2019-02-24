@@ -50,7 +50,7 @@
       - https://freesound.org/people/klankbeeld/sounds/178150/
        
    - Rain & thunder
-      - https://freesound.org/people/felix.blume/sounds/237242/
+      - https://freesound.org/people/RHumphries/sounds/2523/
        
    - Campfire
       - https://freesound.org/people/stratcat322/sounds/233189/
@@ -65,7 +65,7 @@
       - https://freesound.org/people/lauris3722/sounds/161720/)
        
    - thunderstorm
-      - https://freesound.org/people/RHumphries/sounds/2523/)
+      - https://freesound.org/people/mangiabambini/sounds/169083/
        
    - Sailboat
       - https://freesound.org/people/Pfannkuchn/sounds/360631/)
